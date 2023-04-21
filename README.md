@@ -4,7 +4,7 @@ I will cum on your face if you won't star this repository
 #include <stdio.h>
 int main(void)
 {
-   printf("Fuck you!\n");
+   printf("Fuck you!!!\n");
    return 0;
 }
 ```
