@@ -8,3 +8,6 @@ int main(void)
    return 0;
 }
 ```
+$$ a \leq b$$
+
+$\kappa \frac{n!}{k!(n-k)!}$
